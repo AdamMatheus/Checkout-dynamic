@@ -10,7 +10,7 @@ window.onload = () => {
 
     calculateCartTotal();
 }
-
+let adet=InputEvent
 let quantityControllerDivs = document.getElementsByClassName("quantity-controller");
 console.log(quantityControllerDivs);
 
